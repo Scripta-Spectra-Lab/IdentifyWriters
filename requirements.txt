@@ -1,1 +1,8 @@
-
+pandas
+numpy
+chardet
+scipy
+matplotlib
+seaborn
+python-docx
+altair
