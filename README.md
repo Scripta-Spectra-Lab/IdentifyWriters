@@ -43,3 +43,11 @@ scroll.statistical_tests(start_1=1, stop_1=10, start_2=11, stop_2=20)
 
 # Generate graphs for better understanding
 scroll.plot_single_column_data("path_to_save_plots")
+
+For more detailed usage instructions, please refer to the documentation.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License.
