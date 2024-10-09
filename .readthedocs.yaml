@@ -30,6 +30,6 @@ sphinx:
 python:
   install:
     - method: pip
-    packages:
-      - sphinx_rtd_theme
+      packages:
+        - sphinx_rtd_theme
     - requirements: requirements.txt
