@@ -6,3 +6,4 @@ matplotlib
 seaborn
 python-docx
 altair
+sphinx_rtd_theme
