@@ -1,6 +1,6 @@
-# Python_Scroll_Package
+# IdentifyWriters
 
-**Python_Scroll_Package** is a versatile package that allows users to analyze and manipulate text documents and perform various statistical tests on the data.
+**IdentifyWriters** is a versatile package that allows users to analyze and manipulate text documents and perform various statistical tests on the data.
 
 ## Features
 - Extract text from .txt and .docx files.
